@@ -12,8 +12,8 @@ class SoftwareEngineer:
         self.nickname = "iobba"
         self.role = "Software Engineer"
         self.languages = ["C", "C++", "Python", "JavaScript"]
-        self.technologies = ["django", "PostgreSQL", "GraphQL API", "Docker", "Docker Compose", "kafka", "Makefile"]
-        self.tools =  ["Git", "Linux", "VSCode", "Vim", "postman"]
+        self.technologies = ["django", "PostgreSQL", "GraphQL API", "Docker", "Docker Compose", "Kafka", "Makefile"]
+        self.tools =  ["Git", "Linux", "VSCode", "Vim", "Postman"]
 
     def introduce(self):
         print("Hi, I'm Ismail Obba, a passionate software engineer.")
