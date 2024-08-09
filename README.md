@@ -35,4 +35,4 @@ me.say_thanks()
 
 [![My Skills](https://skillicons.dev/icons?i=bash,git,postman,vim,vscode)](https://skillicons.dev)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/EthanJamesLew/github-readme-stats-academic)
