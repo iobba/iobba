@@ -35,4 +35,4 @@ me.say_thanks()
 
 [![My Skills](https://skillicons.dev/icons?i=bash,git,postman,vim,vscode)](https://skillicons.dev)
 
-![](https://leetcard.jacoblin.cool/i-obba3?ext=heatmap)
+![](https://leetcard.jacoblin.cool/i-obba3)
