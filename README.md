@@ -12,7 +12,7 @@ class SoftwareEngineer:
         self.nickname = "iobba"
         self.role = "Software Engineer"
         self.languages = ["C", "C++", "Python", "JavaScript"]
-        self.technologies = ["django", "PostgreSQL", "GraphQL API", "Docker", "Docker Compose", "Kafka", "Makefile"]
+        self.technologies = ["django", "PostgreSQL", "GraphQL/Rest API", "Docker", "Docker Compose", "Kafka", "Makefile"]
         self.tools =  ["Git", "Linux", "VSCode", "Vim", "Postman"]
 
     def introduce(self):
