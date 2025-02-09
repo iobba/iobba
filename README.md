@@ -29,7 +29,7 @@ me.introduce()
 me.projects()
 me.say_thanks()
 ```
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=django,postgresql,graphql,docker,kafka,github,linux)](https://skillicons.dev)
 
