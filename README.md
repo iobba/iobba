@@ -11,7 +11,7 @@ class SoftwareEngineer:
         self.last_name = "Obba"
         self.nickname = "iobba"
         self.role = "Software Engineer"
-        self.languages = ["C", "C++", "Python", "JavaScript"]
+        self.languages = ["Python", "C", "C++", "JavaScript"]
         self.technologies = ["django", "PostgreSQL/ORM", "GraphQL/Rest API", "Docker", "Docker Compose", "Kafka", "Makefile"]
         self.tools =  ["Git", "Linux", "VSCode", "Vim", "Postman"]
 
@@ -29,7 +29,7 @@ me.introduce()
 me.projects()
 me.say_thanks()
 ```
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=django,postgresql,graphql,docker,kafka,github,linux)](https://skillicons.dev)
 
