@@ -12,7 +12,7 @@ class SoftwareEngineer:
         self.nickname = "iobba"
         self.role = "Software Engineer"
         self.languages = ["Python", "C", "C++", "JavaScript", "SQL"]
-        self.technologies = ["FastAPI", "Django", "PostgreSQL/MongoDB", "GraphQL/Rest API", "React", "Docker", "Kafka", "Pybind11", "CMake"]
+        self.technologies = ["FastAPI", "Django", "PostgreSQL/MongoDB", "GraphQL/Rest API", "React", "Docker", "Kubernetes", "Kafka", "Pybind11", "CMake"]
         self.tools =  ["Git", "Linux", "VSCode", "PyCharm", "Vim", "Postman"]
 
     def introduce(self):
@@ -31,7 +31,7 @@ me.say_thanks()
 ```
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,django,postgresql,mongodb,react,graphql,docker,kafka,github,linux,cmake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django,postgresql,mongodb,react,graphql,docker,kubernetes,kafka,github,linux,cmake)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=bash,git,postman,vim,vscode,pycharm)](https://skillicons.dev)
 
